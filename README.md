@@ -3,3 +3,5 @@ Chinese literature has four great works known as the Four Great Classical Novels
 
 + [Romance of the Three Kingdoms](./romance-of-the-three-kingdoms.html)
 + [Journey to the West](./journey-to-the-west.html)
++ [Outlaws of the Marsh](./outlaws-of-the-marsh.html)
++ [Dream of the Red Chamber](./dream-of-the-red-chamber.html)
